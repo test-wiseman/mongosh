@@ -29,5 +29,5 @@ dependencies {
     implementation group: 'org.graalvm.polyglot', name: 'polyglot', version: '25.0.1'
     implementation group: 'org.graalvm.js', name: 'js', version: '25.0.1'
     implementation group: 'org.mongodb', name: 'mongodb-driver-sync', version: '4.11.1'
-    implementation group: 'org.apache.commons', name: 'commons-text', version: '1.10.0'
+    implementation group: 'org.apache.commons', name: 'commons-text', version: '1.15.0'
 }
