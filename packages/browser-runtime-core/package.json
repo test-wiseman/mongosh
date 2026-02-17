@@ -43,7 +43,7 @@
     "@mongodb-js/mongodb-ts-autocomplete": "^0.4.7",
     "@mongosh/types": "^3.14.2",
     "bson": "^7.1.1",
-    "eslint": "^7.25.0",
+    "eslint": "9.39.2",
     "prettier": "^2.8.8",
     "rimraf": "^3.0.2"
   },
