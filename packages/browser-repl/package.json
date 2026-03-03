@@ -64,7 +64,7 @@
     "@mongosh/node-runtime-worker-thread": "3.3.34",
     "@mongosh/service-provider-core": "3.7.1",
     "@mongosh/shell-bson": "1.1.1",
-    "bson": "^7.1.1",
+    "bson": "7.2.0",
     "numeral": "^2.0.6",
     "text-table": "^0.2.0"
   },
