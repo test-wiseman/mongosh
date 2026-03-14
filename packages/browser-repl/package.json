@@ -90,7 +90,7 @@
     "babel-loader": "^8.3.0",
     "buffer": "^6.0.3",
     "enzyme": "^3.11.0",
-    "eslint": "^7.25.0",
+    "eslint": "9.39.4",
     "html-webpack-plugin": "^5.5.0",
     "@mongosh/testing": "0.0.0",
     "karma": "^6.3.9",
