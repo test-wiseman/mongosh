@@ -54,7 +54,7 @@
     "@mongosh/types": "^3.14.2",
     "aws4": "^1.12.0",
     "gcp-metadata": "^7.0.1",
-    "mongodb": "^7.0.0",
+    "mongodb": "7.1.1",
     "mongodb-build-info": "^1.9.5",
     "mongodb-connection-string-url": "^7.0.1",
     "socks": "^2.8.3",
