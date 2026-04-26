@@ -62,7 +62,7 @@
   },
   "dependencies": {
     "@mongodb-js/devtools-github-repo": "^1.4.2",
-    "@mongodb-js/dl-center": "^1.4.4",
+    "@mongodb-js/dl-center": "1.6.5",
     "@mongodb-js/mongodb-downloader": "^1.1.5",
     "@mongodb-js/monorepo-tools": "^1.1.16",
     "@mongodb-js/signing-utils": "^0.3.7",
