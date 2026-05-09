@@ -57,7 +57,7 @@
     "mongodb": "^7.0.0",
     "mongodb-build-info": "^1.9.5",
     "mongodb-connection-string-url": "^7.0.1",
-    "socks": "^2.8.3",
+    "socks": "2.8.8",
     "mongodb-client-encryption": "^7.0.0",
     "kerberos": "^7.0.0"
   },
