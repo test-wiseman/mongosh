@@ -50,7 +50,7 @@
   "dependencies": {
     "@mongosh/autocomplete": "^3.29.1",
     "@mongosh/service-provider-core": "3.7.1",
-    "@mongosh/shell-api": "^3.29.1",
+    "@mongosh/shell-api": "5.3.4",
     "@mongosh/shell-evaluator": "^3.29.1"
   }
 }
