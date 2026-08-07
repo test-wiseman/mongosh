@@ -72,7 +72,7 @@
     "boxednode": "^3.0.0",
     "command-exists": "^1.2.9",
     "download": "^8.0.0",
-    "es-aggregate-error": "^1.0.9",
+    "es-aggregate-error": "1.0.14",
     "nock": "^13.0.11",
     "node-fetch": "2.6.12",
     "pkg-up": "^3.1.0",
